@@ -1,40 +1,52 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "cityName": "Sagnat",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-12-09T14:16:30.795Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "46.31658418182218",
+        "lng": "1.656893061308442"
       },
-      "id": 17806751
+      "id": 98443199
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Santa Maria del Cami",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-12-09T17:40:16.481Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "39.63953756436671",
+        "lng": "2.79052734375"
       },
-      "id": 98443197
+      "id": 98443200
+    },
+    {
+      "cityName": "Oussieres",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-12-09T17:40:53.498Z",
+      "notes": "",
+      "position": {
+        "lat": "46.92025531537454",
+        "lng": "5.609542085450703"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Wajir",
+      "country": "Kenya",
+      "emoji": "🇰🇪",
+      "date": "2025-12-09T17:41:04.204Z",
+      "notes": "",
+      "position": {
+        "lat": "2.1088986592431382",
+        "lng": "39.27695265628733"
+      },
+      "id": 98443202
     }
   ]
 }
